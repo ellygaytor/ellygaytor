@@ -1,7 +1,10 @@
 ![Metrics](https://metrics.lecoq.io/ellygaytor?template=classic&base.community=0&base.metadata=0&languages=1&lines=1&wakatime=1&languages.ignored=css%2Cscss%2Chtml&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&wakatime.days=7&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.limit=5&wakatime.url=https%3A%2F%2Fwakatime.com&config.timezone=America%2FNew_York)
 <!--START_SECTION:waka-->
 ```text
-Python       55 mins         ██████████████████████░░░   87.90 % 
-Markdown     7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Python     55 mins         ██████████▒░░░░░░░░░░░░░░   40.74 % 
+Rust       30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.55 % 
+Markdown   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
+TOML       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+CSS        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 ```
 <!--END_SECTION:waka-->
